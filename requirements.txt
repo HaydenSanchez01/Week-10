@@ -1,7 +1,7 @@
 click==8.0.4
 colorama==0.4.5
 cycler==0.11.0
-dataclasses==0.8
+dataclasses
 distlib==0.3.7
 filelock==3.4.1
 Flask==2.0.3
